@@ -1,7 +1,7 @@
 career,calculated_pay_per_hour,monthly_salary,hours_per_week
-Civil/Construcciones,5833.33,583333.33,26.67
-Electrónica,4125.0,240000.0,15.0
-Industrial,10750.0,860000.0,20.0
-Mecánica,4571.43,640000.0,35.0
-Química,17635.42,2821666.67,40.0
-Sistemas/Informática,15115.74,1700000.0,22.67
+civil/construcciones,5833.33,583333.33,26.67
+electronica,4125.0,240000.0,15.0
+industrial,10750.0,860000.0,20.0
+mecanica,4571.43,640000.0,35.0
+quimica,17635.42,2821666.67,40.0
+sistemas/informatica,15115.74,1700000.0,22.67
