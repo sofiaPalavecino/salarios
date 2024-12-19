@@ -1,11 +1,11 @@
-employer_category,avg_salary,avg_womens_salary,avg_mens_salary,avg_nonb_salary,count
-Ambiental,4300000.0,,4300000.0,,1
-Construcción e Infraestructura,440000.0,440000.0,,,1
-"Energía, Minería y Recursos Naturales",2600000.0,,2600000.0,,1
-Grandes Empresas Nacionales,1528116.52,1259922.37,1642626.38,,127
-Industria Farmacéutica y Laboratorios,1650000.0,1650000.0,,,1
-Logística y Transporte,3550000.0,,3550000.0,,2
-Multinacionales,1593718.69,1503819.17,1643301.77,1800000.0,160
-Otros/No contesta,1841661.48,1418500.0,2042759.3,250000.0,75
-PyMEs y Cooperativas,1119920.79,1103591.68,1135399.29,255000.0,235
-Sector Público,1007629.26,915433.33,1048303.93,,98
+employer_category,avg_salary,avg_womens_salary,avg_mens_salary,avg_nonb_salary,avg_salary_ba_age_1,avg_salary_ba_age_2,avg_salary_ba_age_3,avg_salary_ba_age_4,avg_salary_ba_age_5,avg_salary_ba_age_6,count
+Ambiental,4300000.0,,4300000.0,,,,,,,,1
+Construcción e Infraestructura,440000.0,440000.0,,,,440000.0,,,,,1
+"Energía, Minería y Recursos Naturales",2600000.0,,2600000.0,,,2600000.0,,,,,1
+Grandes Empresas Nacionales,1528116.52,1259922.37,1642626.38,,739578.27,1505128.22,2174866.67,2200000.0,,,127
+Industria Farmacéutica y Laboratorios,1650000.0,1650000.0,,,,1650000.0,,,,,1
+Logística y Transporte,3550000.0,,3550000.0,,,,4300000.0,,,,2
+Multinacionales,1593718.69,1503819.17,1643301.77,1800000.0,1030386.0,1565104.27,2306728.17,1900000.0,2700000.0,,160
+Otros/No contesta,1841661.48,1418500.0,2042759.3,250000.0,1002995.0,1821313.73,2331250.0,2500000.0,3750000.0,,75
+PyMEs y Cooperativas,1119920.79,1103591.68,1135399.29,255000.0,638034.48,1115043.13,1527897.11,1170000.0,2000000.0,,235
+Sector Público,1007629.26,915433.33,1048303.93,,510200.0,946757.07,1267590.91,1600000.0,,,98
