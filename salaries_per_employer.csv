@@ -1,4 +1,4 @@
-employer_category,avg_salary,avg_womens_salary,avg_mens_salary,avg_nonb_salary,avg_salary_ba_age_1,avg_salary_ba_age_2,avg_salary_ba_age_3,avg_salary_ba_age_4,avg_salary_ba_age_5,avg_salary_ba_age_6,count
+employer_category,avg_salary,avg_womens_salary,avg_mens_salary,avg_nonb_salary,avg_salary_18_24,avg_salary_25_34,avg_salary_35_44,avg_salary_45_54,avg_salary_55_64,avg_salary_up_65,count
 Ambiental,4300000.0,,4300000.0,,,,,,,,1
 Construcción e Infraestructura,440000.0,440000.0,,,,440000.0,,,,,1
 "Energía, Minería y Recursos Naturales",2600000.0,,2600000.0,,,2600000.0,,,,,1
